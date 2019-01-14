@@ -9,8 +9,7 @@ Bilevel Learning of the Group Lasso Structure
 *****************************************************************************************************************
 
 
-* RECOMMENDATIONS:
-* This toolbox is designed to work with Matlab 2017.a
+RECOMMENDATIONS: This toolbox is designed to work with Matlab 2017.a
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 DESCRIPTION:
@@ -21,10 +20,9 @@ Our approach relies on an approximation where the lower problem is replaced by a
 This toolbox consists of 2 subfolders containing MATLAB functions designed for the proposed algorithm.
 
 ----------------------------------------------------------------------------------------------------------------------------------------
-SPECIFICATIONS for using BiGLasso
+SPECIFICATIONS for using BiGLasso:
 
 One demo file 'demo_BiGLasso.m' is proposed to illustrate the principle of the method with dynamic displays
-
 The main function is 'BiGLasso.m'
 
 ------------------------------------------------------------------------------------------------------------------------------------------
