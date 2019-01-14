@@ -32,6 +32,4 @@ The main function is 'BiGLasso.m'
 ------------------------------------------------------------------------------------------------------------------------------------------
 RELATED PUBLICATION:
 
-# J. Frecon, S. Salzo, and M. Pontil
-Bilevel Learning of Group Lasso Structure
-Accepted to the Thirty-Second Annual Conference on Neural Information Processing Systems (NIPS 2018)
+J. Frecon, S. Salzo, and M. Pontil, "Bilevel Learning of Group Lasso Structure", Thirty-Second Annual Conference on Neural Information Processing Systems (NIPS 2018).
