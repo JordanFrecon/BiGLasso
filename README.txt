@@ -3,7 +3,7 @@
 *****************************************************************************************************************
 * author: Jordan Frecon  											*
 * institution: Computational Statistics and Machine Learning, Istituto Italiano di Tecnologia, Genova, Italy 	*
-* date: May 22 2018     	              									*
+* date: January 14 2019     	              									*
 * License CeCILL-B                                    								*
 *****************************************************************************************************************
 
