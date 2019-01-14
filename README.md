@@ -2,17 +2,15 @@
 Bilevel Learning of the Group Lasso Structure
 
 *****************************************************************************************************************
-* author: Jordan Frecon  											*
+* author: Jordan Frecon
 * institution: Computational Statistics and Machine Learning, Istituto Italiano di Tecnologia, Genova, Italy 	*
-* date: May 22 2018     	              									*
-* License CeCILL-B                                    								*
+* date: January 14 2019 
+* License CeCILL-B
 *****************************************************************************************************************
 
 
-*********************************************************
-* RECOMMENDATIONS:                                   	*
-* This toolbox is designed to work with Matlab 2017.a   *
-*********************************************************
+* RECOMMENDATIONS:
+* This toolbox is designed to work with Matlab 2017.a
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 DESCRIPTION:
